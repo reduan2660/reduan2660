@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/reduan2660?tab=repositories](https://github.com/reduan2660?tab=repositories)
 
-- 📫 How to reach me **iam.reduan@gmail.com**
+- 📫 How to reach me **contact@alvereduan.me**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1-Wgbkt-Slj1d501_C6XoL5x4SqX4PLN7/view?usp=sharing](https://drive.google.com/file/d/1-Wgbkt-Slj1d501_C6XoL5x4SqX4PLN7/view?usp=sharing)
 
