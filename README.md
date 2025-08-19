@@ -10,7 +10,6 @@
 │  → LinkedIn:  linkedin.com/in/alve-reduan                       │
 │                                                                 │
 └─────────────────────────────────────────────────────────────────┘
-```
 
-**Currently:** at Spotter Labs  
----
+at Spotter Labs  
+```
