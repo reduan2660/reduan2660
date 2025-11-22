@@ -6,7 +6,7 @@
 ├─────────────────────────────────────────────────────────────────┤
 │                                                                 │
 │  → Portfolio: https://alvereduan.com                            │
-│  → Email:     iam.reduan@gmail.com                              │
+│  → Email:     hey@alvereduan.com                                │
 │  → LinkedIn:  linkedin.com/in/alve-reduan                       │
 │                                                                 │
 └─────────────────────────────────────────────────────────────────┘
