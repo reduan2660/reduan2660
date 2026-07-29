@@ -5,9 +5,9 @@
 │ Software Engineer | DevOps | all things enthusiast              │
 ├─────────────────────────────────────────────────────────────────┤
 │                                                                 │
-│  → Portfolio: (alvereduan.com)[alvereduan.com]                  │
-│  → Email:     iam.reduan@gmail.com                              │
-│  → LinkedIn:  linkedin.com/in/alve-reduan                       │
+│  → portfolio: alvereduan.com                                    │
+│  → email:     iam.reduan@gmail.com                              │
+│  → linkedIn:  linkedin.com/in/alve-reduan                       │
 │                                                                 │
 └─────────────────────────────────────────────────────────────────┘
 
